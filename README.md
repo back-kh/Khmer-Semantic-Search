@@ -1,1 +1,1 @@
-# KSE-Web
+# Khmer Semantic Search (KSE)
