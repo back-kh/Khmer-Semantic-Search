@@ -14,7 +14,7 @@ Most of my work on Khmer language research has been self-funded and driven by pe
 
 Thank you for your support and encouragement.
 
-Author: Nimol Thuon
+# Author: Nimol Thuon
 
 
 
