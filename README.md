@@ -1,7 +1,8 @@
 # Khmer Semantic Search (KSE)
 
-**Version 1:** *Khmer Semantic Search Engine (KSE): Digital Information Access and Document Retrieval* (2014)
-**Version 2:** *KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion for Low-Resource Khmer Semantic Search* (2026)
+**Paper 1:** Khmer Semantic Search Engine (KSE): Digital Information Access and Document Retrieval (2014)
+
+**Paper 2:** KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion for Low-Resource Khmer Semantic Search (2026)
 
 It has been a long journey. Some people may have waited quite a long time, but I am happy that we have made progress over the past 12 years.
 
