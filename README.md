@@ -13,6 +13,7 @@ We also plan to release an improved version by the end of 2026, so please stay t
 Most of my work on Khmer language research has been self-funded and driven by personal interest. Because of this, progress has sometimes been slower than I hoped. Balancing research and development with daily life and survival has not always been easy, but I remain passionate about continuing this mission.
 
 Thank you for your support and encouragement.
+
 Author: Nimol Thuon
 
 
