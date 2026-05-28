@@ -1,20 +1,19 @@
 # Khmer Semantic Search (KSE)
 
-**Paper 1:** Khmer Semantic Search Engine (KSE): Digital Information Access and Document Retrieval (2014)
+Khmer Semantic Search (KSE) is a long-term project for Khmer semantic search, digital information access, and document retrieval in a low-resource language setting.
 
-**Paper 2:** KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion for Low-Resource Khmer Semantic Search (2026)
+## Papers
 
-It has been a long journey. Some people may have waited quite a long time, but I am happy that we have made progress over the past 12 years.
+- **2014:** *Khmer Semantic Search Engine (KSE): Digital Information Access and Document Retrieval*
+- **2026:** *KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion for Low-Resource Khmer Semantic Search*
 
-I hope this new version can serve as a useful foundation for researchers working on low-resource languages, especially Khmer.
+## About
 
-We also plan to release an improved version by the end of 2026, so please stay tuned.
+This project has been a long journey. After 12 years, I am happy to share this new version as a foundation for researchers, especially Cambodian students and researchers working on Khmer language technology.
 
-Most of my work on Khmer language research has been self-funded and driven by personal interest. Because of this, progress has sometimes been slower than I hoped. Balancing research and development with daily life and survival has not always been easy, but I remain passionate about continuing this mission.
+Most of this work has been self-funded and driven by personal interest. Progress has sometimes been slower than I hoped, but I remain passionate about contributing to the Khmer research community.
 
-Thank you for your support and encouragement.
+An improved version and a new journal paper are planned for release by the end of 2026.
 
-# Author: Nimol Thuon
-
-
-
+## Author
+**Nimol Thuon**
