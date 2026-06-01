@@ -13,7 +13,6 @@ This project has been a long journey. After 12 years, I am happy to share this n
 
 Most of this work has been self-funded and driven by personal interest. Progress has sometimes been slower than I hoped, but I remain passionate about contributing to the Khmer research community.
 
-An improved version and a new journal paper are planned for release by the end of 2026.
 
 ## Author
 **Nimol Thuon**
