@@ -1,6 +1,6 @@
 # Khmer Semantic Search (KSE)
 
-**Khmer Semantic Search (KSE)** is a long-term research and development project for Khmer semantic search, digital information access, keyword extraction, and document retrieval in a low-resource language setting.
+**Khmer Semantic Search (KSE)** is a long-term research and development project for Khmer semantic search (KSE), Keyword Document Extraction (KDE) , digital information access, and Khmer Document Retrieval (KDR) in a low-resource language setting.
 
 The goal of this project is to make Khmer information retrieval easier to study, test, and extend. It connects earlier Khmer semantic search work with newer web-based retrieval, hybrid search, and LLM-assisted query expansion. This public version is mainly released as a learning and research foundation for students, researchers, and developers interested in Khmer language technology.
 
@@ -133,7 +133,18 @@ Search Results
 | Evaluation | Compare retrieved documents with ground-truth or silver relevance labels |
 
 ---
+## SEO and Search Analysis Reference
 
+An external SEO-focused analysis of the first KSE paper is available here:
+
+**“Addressing the Gap: How the Khmer Semantic Search Engine (KSE) Works & What That Can Teach Us as SEOs”**  
+Blog: [Ethan Lazuk / Hamsterdam Research](https://ethanlazuk.com/blog/hamsterdam-research-kse/)
+
+This blog is useful because it explains KSE from a search-engine and SEO perspective. It discusses why Khmer semantic search matters, how the KSE framework relates to keyword extraction and semantic matching, and what search professionals can learn from low-resource language retrieval.
+
+This reference is not part of the original KSE implementation, but it provides helpful external analysis for readers who want to understand KSE from a broader search and web-discovery perspective.
+
+---
 ## Datasets
 
 ### Original KSE Dataset
@@ -238,18 +249,6 @@ A stronger gold-standard version with more careful human verification is planned
 
 ---
 
-## SEO and Search Analysis Reference
-
-An external SEO-focused analysis of the KSE paper is available here:
-
-**“Addressing the Gap: How the Khmer Semantic Search Engine (KSE) Works & What That Can Teach Us as SEOs”**  
-Blog: [Ethan Lazuk / Hamsterdam Research](https://ethanlazuk.com/blog/hamsterdam-research-kse/)
-
-This blog is useful because it explains KSE from a search-engine and SEO perspective. It discusses why Khmer semantic search matters, how the KSE framework relates to keyword extraction and semantic matching, and what search professionals can learn from low-resource language retrieval.
-
-This reference is not part of the original KSE implementation, but it provides helpful external analysis for readers who want to understand KSE from a broader search and web-discovery perspective.
-
----
 
 ## Project Status
 
