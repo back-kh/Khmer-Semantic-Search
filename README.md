@@ -297,20 +297,7 @@ You can use this project as a starting point for:
 
 ---
 
-## Roadmap
 
-Planned updates include:
-
-- improved KSE-Web documentation
-- more detailed hybrid retrieval pipeline
-- stronger KSE-Web3K loading examples
-- baseline scripts for sparse, dense, and hybrid retrieval
-- LLM-assisted query expansion examples
-- evaluation scripts for qrels-based retrieval metrics
-- improved gold-standard dataset release in the future
-- possible web demo or lightweight interface
-
----
 
 ## Citation
 
@@ -351,7 +338,7 @@ A stronger and more advanced version is planned in the future. The current publi
 
 **Nimol Thuon**
 
-For collaboration, research partnerships, dataset discussion, or advanced implementation, please contact the author directly.
+For collaboration, research partnerships, discussion, or advanced implementation, please contact me directly.
 
 ---
 
