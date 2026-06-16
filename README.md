@@ -12,10 +12,10 @@ The goal of this project is to make Khmer information retrieval easier to study,
 - [Research Background](#research-background)
 - [Main Research Papers](#main-research-papers)
 - [System Overview](#system-overview)
+- [SEO and Search Analysis Reference](#seo-and-search-analysis-reference)
 - [Datasets](#datasets)
 - [KSWv2 Khmer Stop Word Dictionary Integration](#kswv2-khmer-stop-word-dictionary-integration)
 - [KSE-Web and KSE-Web3K](#kse-web-and-kse-web3k)
-- [SEO and Search Analysis Reference](#seo-and-search-analysis-reference)
 - [Project Status](#project-status)
 - [Getting Started](#getting-started)
 - [Roadmap](#roadmap)
@@ -344,7 +344,7 @@ This project has been a long journey. After 12 years, I am happy to share this n
 
 Most of this work has been driven by personal interest and has been mostly self-funded. Progress has sometimes been slower than I hoped, but I remain passionate about contributing to the Khmer research community.
 
-A stronger and more advanced version is planned in the future. The current public releases are mainly foundations for learning and research. Some gold-standard datasets and advanced functions are not fully public yet. If industry teams, universities, or researchers would like to collaborate on Khmer search, Khmer NLP, low-resource retrieval, or gold dataset development, please contact the author.
+A stronger and more advanced version is planned in the future. The current public releases are mainly foundations for learning and research. Some gold-standard datasets and advanced functions are not fully public yet. If industry teams, universities, or researchers would like to collaborate on Khmer search, Khmer NLP, low-resource retrieval, or gold dataset development, please contact me.
 
 ---
 
