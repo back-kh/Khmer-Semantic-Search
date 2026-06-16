@@ -62,8 +62,7 @@ The project also highlights why Khmer search is important for education, tourism
 
 ### 1. Khmer Semantic Search Engine (KSE): Digital Information Access and Document Retrieval
 
-- **Early project period:** around 2014, with later extended development
-- **Public release:** 2024
+- **Early project period:** around 2014-2016 (But released document in 2024)
 - **Paper:** [arXiv:2406.09320](https://arxiv.org/abs/2406.09320)
 - **Main focus:** Khmer semantic search, keyword extraction, ontology-based search, ranking, and document retrieval
 
