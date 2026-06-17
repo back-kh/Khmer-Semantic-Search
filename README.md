@@ -266,13 +266,6 @@ Not all datasets and functions are public in this version. Some advanced functio
 
 ---
 
-## Getting Started
-
-### Requirements
-
-- Python 3.7+
-- Dependencies listed in `requirements.txt`
-
 ### Installation
 
 ```bash
@@ -333,7 +326,7 @@ A stronger and more advanced version is planned in the future. The current publi
 
 ---
 
-## Author
+## Project Lead and Author:
 
 **Nimol Thuon**
 
