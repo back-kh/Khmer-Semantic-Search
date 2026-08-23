@@ -42,6 +42,9 @@ This repository is a research and teaching resource rather than a production sea
 | 2024 | [Foundational KSE paper](https://arxiv.org/abs/2406.09320) released publicly | Digital information access and document retrieval for Khmer |
 | 2026 | [KSE-Web paper](https://hal.science/hal-05672989/) and [KSE-Web3K](https://huggingface.co/datasets/Backkh/KSE-Web3K) | Sparse, dense, hybrid, and LLM-assisted Khmer web retrieval |
 
+> [!NOTE]
+> **Historical timeline:** the original KSE system and research were developed during **2014–2016**. The associated manuscript was made publicly available in **2024**; 2024 is the public-release year, not the beginning of the project.
+
 ## Latest paper: KSE-Web
 
 **Nimol Thuon. “KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion for Low-Resource Khmer Semantic Search.” International Conference on Document Analysis and Recognition (ICDAR 2026), Vienna, Austria.**
@@ -77,18 +80,11 @@ The central finding is that **LLM query expansion should not be assumed to impro
 
 ## Retrieval framework
 
-```mermaid
-flowchart TD
-    A[Khmer user query] --> B[Normalize Khmer text]
-    B --> C{Optional LLM expansion}
-    C --> D[Character n-gram BM25]
-    C --> E[Multilingual-E5 dense retrieval]
-    D --> F[Hybrid score fusion]
-    E --> F
-    D --> G[Ranked Khmer documents]
-    E --> G
-    F --> G
-```
+<p align="center">
+  <img src="assets/figures/kse-web-framework.jpg" alt="KSE-Web framework showing offline corpus processing, query normalization, LLM-assisted expansion, sparse and dense retrieval, hybrid score fusion, and ranked Khmer documents" width="100%">
+</p>
+
+<p align="center"><em>KSE-Web framework from the 2026 paper: offline corpus processing and indexing, optional LLM-assisted query expansion, sparse and dense retrieval, hybrid score fusion, and top-k Khmer document ranking.</em></p>
 
 | Component | Role |
 |---|---|
@@ -215,6 +211,12 @@ To run dense or hybrid retrieval, change `--method` to `dense` or `hybrid`. The 
 - **HAL:** [hal-04739808](https://hal.science/hal-04739808/)
 
 The foundational KSE work presents a Khmer-specific framework for semantic document access. It covers keyword-dictionary matching, ontology-based expansion, weighted ranking, document and URL indexing, manual and automatic keyword extraction, and ground-truth preparation. This work established the project direction that KSE-Web later extends with modern retrieval baselines and LLM-assisted query processing.
+
+<p align="center">
+  <img src="assets/figures/kse-original-overview.webp" alt="Original Khmer Semantic Search Engine architecture with query input, keyword extraction and indexation, semantic matching, result ranking, and ranked web pages" width="100%">
+</p>
+
+<p align="center"><em>Original KSE web-processing overview. The system was developed during 2014–2016 and documented in the manuscript publicly released in 2024.</em></p>
 
 ## Related resources
 
