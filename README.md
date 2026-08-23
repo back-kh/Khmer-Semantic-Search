@@ -86,6 +86,23 @@ The central finding is that **LLM query expansion should not be assumed to impro
 
 <p align="center"><em>KSE-Web framework from the 2026 paper: offline corpus processing and indexing, optional LLM-assisted query expansion, sparse and dense retrieval, hybrid score fusion, and top-k Khmer document ranking.</em></p>
 
+### Simplified retrieval pipeline
+
+The following high-level view complements the detailed paper figure and makes the main retrieval flow easier to follow.
+
+```mermaid
+flowchart TD
+    A[Khmer user query] --> B[Normalize Khmer text]
+    B --> C{Optional LLM expansion}
+    C --> D[Character n-gram BM25]
+    C --> E[Multilingual-E5 dense retrieval]
+    D --> F[Hybrid score fusion]
+    E --> F
+    D --> G[Ranked Khmer documents]
+    E --> G
+    F --> G
+```
+
 | Component | Role |
 |---|---|
 | Text normalization | Cleans Khmer text while preserving retrieval-relevant content |
