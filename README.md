@@ -20,7 +20,7 @@
 </p>
 
 > [!IMPORTANT]
-> **New paper — ICDAR 2026:** [KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion for Low-Resource Khmer Semantic Search](https://hal.science/hal-05672989/) is available through the HAL open archive.
+> **New paper — ICDAR-DALL 2026:** [KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion for Low-Resource Khmer Semantic Search](https://hal.science/hal-05672989/) is available through the HAL open archive.
 
 ## Overview
 
